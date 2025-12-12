@@ -1,0 +1,4 @@
+Report of forbidden words
+
+Top 10 forbidden words:
+evil: 5
